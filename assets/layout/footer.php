@@ -21,7 +21,7 @@
 <script src="assets/vendor/aos/aos.js"></script>
 
 <!-- Main JS File -->
-<script src="assets/js/main.js"></script>
+<scriptgigit add  src="assets/js/main.js"></script>
 
 </body>
 </html>
