@@ -42,14 +42,6 @@
       </svg>
 
     </section><!-- /Hero Section -->
-
-   
-
-  
-  
-   
-   
-
   </main>
 <?php require_once('./assets/layout/footer.php'); ?>
  
