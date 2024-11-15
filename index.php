@@ -1,5 +1,5 @@
 <?php require_once('./assets/layout/header.php'); ?>
-<main class="main">
+
     <!-- Hero Section -->
     <section id="hero" class="hero section dark-background">
 
@@ -17,6 +17,6 @@
       </div>
 
     </section><!-- /Hero Section -->
-</main>
+
 <?php require_once('./assets/layout/footer.php'); ?>
  

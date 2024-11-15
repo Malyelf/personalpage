@@ -1,14 +1,6 @@
 
 <?php require_once('./assets/layout/header.php'); ?>
 
-    </section><!-- /Pricing Section -->
-
-    <!-- Faq Section -->
-    <section id="faq" class="faq section">
-
-    
-    </section><!-- /Team Section -->
-
     
     <!-- Contact Section -->
     <section id="contact" class="contact section">
@@ -88,5 +80,5 @@
 
     </section><!-- /Contact Section -->
 
-  </main>
+  
   <?php require_once('./assets/layout/footer.php'); ?>

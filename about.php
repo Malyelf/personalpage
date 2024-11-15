@@ -1,9 +1,7 @@
 
 <?php require_once('./assets/layout/header.php'); ?>
 
-    
-
-   <!-- About Section -->
+<!-- About Section -->
     <section id="about" class="about section">
 
     <div class="container">
@@ -37,5 +35,5 @@
 
 </section><!-- /About Section -->
    
-  </main>
+
 <?php require_once('./assets/layout/footer.php'); ?>
